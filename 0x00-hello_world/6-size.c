@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  *
- * Description: A program that prints the size of the various types
+ * Description: using sizeof to print the size of various types.
  *
- * Return: Always 0 (success)
- */
+ * Return: 0
+*/
 
 int main(void)
 {
